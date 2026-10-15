@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Encoded dataset
+Encoded.csv
+
+# Cedi-Nidd dataset
+cedi-nidd/5G-pcap-datasets
+cedi-nidd/pcap_ml_output/checkpoints
